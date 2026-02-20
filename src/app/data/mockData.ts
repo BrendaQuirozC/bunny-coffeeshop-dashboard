@@ -1,4 +1,4 @@
-// Mock data for Bunny Coffee Dashboard
+// Mock data for Bunny Café Dashboard
 
 export interface CoffeeSale {
   name: string;

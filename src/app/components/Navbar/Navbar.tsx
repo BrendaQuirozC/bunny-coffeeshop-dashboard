@@ -14,7 +14,7 @@ const Navbar = () => {
             </div>
             <div>
               <h1 className="text-3xl font-light text-white tracking-tight flex items-center gap-2">
-                Bunny Coffee Shop
+                Bunny Café
                 <span className="text-green-leafs">Analytics</span>
               </h1>
               <p className="text-sm text-green-leafs/70 tracking-wide">Dashboard</p>
